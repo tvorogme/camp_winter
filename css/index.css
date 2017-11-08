@@ -795,6 +795,10 @@ nav a {
     max-height: 60px;
 }
 
+.croc img {
+    max-height: 40px;
+}
+
 .little-partner img {
     max-width: 90%;
     max-height: 90%;
