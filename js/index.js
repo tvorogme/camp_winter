@@ -1,6 +1,6 @@
 function initialize() {
     var mapProp = {
-        center: new google.maps.LatLng(59.944625, 30.2950071),
+        center: new google.maps.LatLng(55.7112287,37.5924438),
         zoom: 15,
         scrollwheel: false,
         navigationControl: false,
@@ -11,11 +11,11 @@ function initialize() {
     };
     var map = new google.maps.Map(document.getElementById("map"), mapProp);
     var marker = new google.maps.Marker({
-        position: new google.maps.LatLng(59.944625, 30.2950071),
+        position: new google.maps.LatLng(55.7112287,37.5924438),
         map: map
     });
     var iw1 = new google.maps.InfoWindow({
-        content: "<a class='golovinka' href='http://technopark.ifmo.ru/'>Технопарк ИТМО</a><br>Биржевая линия, 14-16"
+        content: "Дом-коммуна Внешэкономбанка и МИСиС<br>Москва, 2-й Донской проезд, д. 9"
     });
 
     iw1.open(map, marker);
