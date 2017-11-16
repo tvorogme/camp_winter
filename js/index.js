@@ -78,7 +78,7 @@ function cool(i) {
     }
 
     if (i === 2) {
-        $('.opisanie').css('background-color', 'rgb(238, 229, 58)');
+        $('.opisanie').css('background-color', 'rgb(255, 140, 102)');
         $('.robot-text').css('display', 'none');
         $('.cool_feature_text').css('display', 'none');
         $('.bio-text').css('display', 'none');
@@ -92,7 +92,7 @@ function ntcool(i) {
     $('.opisanie').css('display', 'block').css('top', '0').css('bottom', '320px').css('height', '320');
 
     if (i === 0) {
-        $('.opisanie').css('background-color', 'rgb(238, 229, 58)');
+        $('.opisanie').css('background-color', 'rgb(255, 140, 102)');
         $('.programm-text').css('display', 'none');
         $('.cool_feature_text').css('display', 'block');
         $('.bio-text').css('display', 'none');
@@ -101,7 +101,7 @@ function ntcool(i) {
          $('.blockchain-text').css('display', 'none');
     }
     if (i === 1) {
-        $('.opisanie').css('background-color', 'rgb(255, 140, 102)');
+        $('.opisanie').css('background-color', 'rgb(238, 229, 58)');
         $('.robot-text').css('display', 'none');
         $('.cool_feature_text').css('display', 'none');
         $('.bio-text').css('display', 'block');
