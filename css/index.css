@@ -958,7 +958,7 @@ nav a {
     background-color: rgb(81, 13, 129);
 }
 
-@media screen and (max-width: 520px) {
+@media screen and (max-width: 1050px) {
     * {
         text-align: center;
     }
