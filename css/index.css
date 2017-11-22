@@ -17,46 +17,48 @@ ul {
     padding: 0;
 }
 
+li {
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
 .relative {
     position: relative;
 }
 
 .content {
     max-height: 0;
-    text-align: left;
     overflow: hidden;
-    padding-left: 10px;
-    padding-right: 10px;
 }
 
-label{
+label {
     font-weight: bold;
-    padding-top: 40px;
-    padding-bottom: 40px;
     font-size: 25px;
 }
 
-label:hover{
+label:hover {
     cursor: pointer;
 }
 
-.radio:checked ~ .content{
+.radio:checked ~ .content {
     max-height: none;
 }
 
-.green{
+.green {
     color: rgb(67, 180, 152);
 }
 
-.orange{
+.orange {
     color: rgb(255, 140, 102);
 }
 
-.yellow{
+.yellow {
     color: rgb(244, 238, 126);
 }
 
-.purple{
+.purple {
     color: rgb(81, 13, 129);
 }
 
