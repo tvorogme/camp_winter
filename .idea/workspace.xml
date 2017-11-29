@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="55535553-a0f3-4369-8c75-9deed63fbefd" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -24,7 +23,7 @@
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="1113">
-              <caret line="886" column="71" lean-forward="false" selection-start-line="886" selection-start-column="71" selection-end-line="886" selection-end-column="71" />
+              <caret line="1099" column="99" lean-forward="false" selection-start-line="1099" selection-start-column="99" selection-end-line="1099" selection-end-column="99" />
               <folding>
                 <element signature="n#a#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
                 <element signature="n#svg#0;n#a#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
@@ -770,7 +769,7 @@
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1113">
-          <caret line="886" column="71" lean-forward="false" selection-start-line="886" selection-start-column="71" selection-end-line="886" selection-end-column="71" />
+          <caret line="1099" column="99" lean-forward="false" selection-start-line="1099" selection-start-column="99" selection-end-line="1099" selection-end-column="99" />
           <folding>
             <element signature="n#a#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#svg#0;n#a#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
