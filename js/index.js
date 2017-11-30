@@ -1,6 +1,6 @@
 function initialize() {
     var mapProp = {
-        center: new google.maps.LatLng(55.711229,37.592444),
+        center: new google.maps.LatLng(55.711167,37.5942313),
         zoom: 15,
         scrollwheel: false,
         navigationControl: false,
@@ -11,7 +11,7 @@ function initialize() {
     };
     var map = new google.maps.Map(document.getElementById("map"), mapProp);
     var marker = new google.maps.Marker({
-        position: new google.maps.LatLng(55.711229,37.592444),
+        position: new google.maps.LatLng(55.711167,37.5942313),
         map: map
     });
     var iw1 = new google.maps.InfoWindow({
