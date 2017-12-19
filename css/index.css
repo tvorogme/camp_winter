@@ -86,6 +86,10 @@ label:hover {
     width: 100vw;
 }
 
+.orange_background {
+    background: rgb(81, 13, 129) !important;
+}
+
 .comment {
     background: white;
     width: 80vw;
