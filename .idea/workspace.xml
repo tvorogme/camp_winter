@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="55535553-a0f3-4369-8c75-9deed63fbefd" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -23,8 +22,8 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="604">
-              <caret line="770" column="29" lean-forward="false" selection-start-line="770" selection-start-column="29" selection-end-line="770" selection-end-column="29" />
+            <state relative-caret-position="499">
+              <caret line="765" column="58" lean-forward="false" selection-start-line="765" selection-start-column="58" selection-end-line="765" selection-end-column="58" />
               <folding>
                 <element signature="n#a#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
                 <element signature="n#svg#0;n#a#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
@@ -761,8 +760,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="604">
-          <caret line="770" column="29" lean-forward="false" selection-start-line="770" selection-start-column="29" selection-end-line="770" selection-end-column="29" />
+        <state relative-caret-position="499">
+          <caret line="765" column="58" lean-forward="false" selection-start-line="765" selection-start-column="58" selection-end-line="765" selection-end-column="58" />
           <folding>
             <element signature="n#a#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#svg#0;n#a#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
