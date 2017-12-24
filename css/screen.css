@@ -525,10 +525,10 @@ body {
 
 /* line 369, ../sass/screen.scss */
 .take_part_wrapper a {
-    padding: 10px 30px;
+    padding: 17px 33px;
     background: #f6e76a;
-    font-size: 5vh;;
-    color: #373a3c;
+    font-size: 4vh;
+    color: #090909;
     text-decoration: none;
 }
 
