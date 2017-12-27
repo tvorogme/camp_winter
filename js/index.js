@@ -1,6 +1,6 @@
 function initialize() {
     var mapProp = {
-        center: new google.maps.LatLng(55.711167, 37.596420),
+        center: new google.maps.LatLng(55.7335134,37.5896974),
         zoom: 15,
         scrollwheel: false,
         navigationControl: false,
@@ -11,11 +11,11 @@ function initialize() {
     };
     var map = new google.maps.Map(document.getElementById("map"), mapProp);
     var marker = new google.maps.Marker({
-        position: new google.maps.LatLng(55.711167, 37.596420),
+        position: new google.maps.LatLng(55.7335134,37.5896974),
         map: map
     });
     var iw1 = new google.maps.InfoWindow({
-        content: "Дом-коммуна Внешэкономбанка и МИСиС<br>Москва, 2-й Донской проезд, д. 9"
+        content: "Школа анализа данных, Яндекс<br>Москва, улица Тимура Фрунзе, д.11, к.2"
     });
 
     iw1.open(map, marker);
