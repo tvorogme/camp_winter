@@ -15,7 +15,7 @@ function initialize() {
         map: map
     });
     var iw1 = new google.maps.InfoWindow({
-        content: "Школа анализа данных, Яндекс<br>Москва, улица Льва Толстого, 16"
+        content: "офис Яндекс<br>Москва, улица Льва Толстого, 16"
     });
 
     iw1.open(map, marker);
